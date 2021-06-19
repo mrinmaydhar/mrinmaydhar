@@ -1,5 +1,10 @@
 ### Hi there 👋
-[![Mrinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinmaydhar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome;)](https://git.io/typing-svg)
+
+[![Mrinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinmaydhar&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -15,7 +20,9 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrinmaydhar)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrinmaydhar&theme=nord)](https://git.io/streak-stats)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21znlxzvdliojfjewtz547awa&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21znlxzvdliojfjewtz547awa&redirect=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrinmaydhar.mrinmaydhar)
 
