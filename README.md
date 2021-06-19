@@ -1,4 +1,4 @@
-[![Mrinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinmaydhar&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Mrinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinmaydhar&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -13,5 +13,7 @@
 <!--END_SECTION:activity-->
 
 ---
+
+[![Mrinmay Dhar StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5726675&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrinmaydhar.mrinmaydhar)
