@@ -1,10 +1,11 @@
+/header.png
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome;)](https://git.io/typing-svg)
 
 [![Mrinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinmaydhar&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=15&margin-h=15&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
