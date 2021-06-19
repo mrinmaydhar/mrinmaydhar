@@ -3,6 +3,14 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrinmaydhar.mrinmaydhar)
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
 <!--
 **mrinmaydhar/mrinmaydhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
