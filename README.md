@@ -15,6 +15,8 @@
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrinmaydhar)](https://git.io/streak-stats)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrinmaydhar.mrinmaydhar)
 
 <!--
