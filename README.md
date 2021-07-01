@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#439](https://github.com/AmruthPillai/Reactive-Resume/issues/439) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-2. ❗️ Opened issue [#509](https://github.com/AmruthPillai/Reactive-Resume/issues/509) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-3. 🎉 Merged PR [#2](https://github.com/mrinmaydhar/Reactive-Resume/pull/2) in [mrinmaydhar/Reactive-Resume](https://github.com/mrinmaydhar/Reactive-Resume)
-4. 💪 Opened PR [#2](https://github.com/mrinmaydhar/Reactive-Resume/pull/2) in [mrinmaydhar/Reactive-Resume](https://github.com/mrinmaydhar/Reactive-Resume)
-5. 🎉 Merged PR [#5](https://github.com/mrinmaydhar/mrinmaydhar.github.io/pull/5) in [mrinmaydhar/mrinmaydhar.github.io](https://github.com/mrinmaydhar/mrinmaydhar.github.io)
+1. 🎉 Merged PR [#1](https://github.com/mrinmaydhar/mrinmaydhar.github.io/pull/1) in [mrinmaydhar/mrinmaydhar.github.io](https://github.com/mrinmaydhar/mrinmaydhar.github.io)
+2. 💪 Opened PR [#1](https://github.com/mrinmaydhar/mrinmaydhar.github.io/pull/1) in [mrinmaydhar/mrinmaydhar.github.io](https://github.com/mrinmaydhar/mrinmaydhar.github.io)
+3. 🗣 Commented on [#439](https://github.com/AmruthPillai/Reactive-Resume/issues/439) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+4. ❗️ Opened issue [#509](https://github.com/AmruthPillai/Reactive-Resume/issues/509) in [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
+5. 🎉 Merged PR [#2](https://github.com/mrinmaydhar/Reactive-Resume/pull/2) in [mrinmaydhar/Reactive-Resume](https://github.com/mrinmaydhar/Reactive-Resume)
 <!--END_SECTION:activity-->
 
 ---
